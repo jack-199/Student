@@ -1,6 +1,6 @@
 public class login
 {
-	public static void main
-fsjdjsfljdk
-adff
+	public static void main (String aargs[])
+	{
+	}
 }
